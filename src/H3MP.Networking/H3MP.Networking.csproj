@@ -34,8 +34,8 @@
     <PackageReference Include="BepInEx.Core" Version="5.4.0" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="LiteNetLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\LiteNetLib.0.9.3.2\lib\net35\LiteNetLib.dll</HintPath>
+    <Reference Include="LiteNetLib">
+      <HintPath>..\..\..\..\Users\naqui\Documents\dlls and shit\LiteNetLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>

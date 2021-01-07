@@ -348,3 +348,10 @@ MigrationBackup/
 # Dependencies
 /game
 discord_game_sdk.dll
+src/H3MP.Networking/H3MP.Networking.csproj
+src/H3MP/H3MP.csproj
+src/H3MP/H3MP.csproj
+src/H3MP/H3MP.csproj
+src/H3MP.Networking/H3MP.Networking.csproj
+src/H3MP.Networking/H3MP.Networking.csproj
+src/H3MP/H3MP.csproj
