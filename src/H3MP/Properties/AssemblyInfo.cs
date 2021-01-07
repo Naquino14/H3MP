@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("H3MP")]
-[assembly: AssemblyCopyright("Copyright © Ash 2020")]
+[assembly: AssemblyCopyright("Copyright © lmfao no 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
