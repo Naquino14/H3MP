@@ -346,6 +346,6 @@ MigrationBackup/
 .idea/
 
 # Dependencies
-/game
+scripts/game
 discord_game_sdk.dll
 H3VR Folder.lnk
