@@ -12,8 +12,8 @@
     "deli.core": "0.2.5"
   },
   "runtime": {
-    "libraries/natives/discord_game_sdk.dll" : "assembly.native",
-    "libraries/LiteNetLib.dll" : "assembly",
+    "discord_game_sdk.dll" : "assembly.native",
+    "LiteNetLib.dll" : "assembly",
     "H3MP.Networking.dll" : "assembly",
     "H3MP.dll" : "assembly"
   }
