@@ -15,16 +15,16 @@
     |   |       HostPublicBindingConfig.cs
     |   |       RootConfig.cs
     |   |       
-    |   +---Discord
-    |   |       ActivityManager.cs
-    |   |       Constants.cs
-    |   |       Core.cs
-    |   |       discord_game_sdk.dll
-    |   |       ImageManager.cs
-    |   |       LobbyManager.cs
-    |   |       README.md
-    |   |       StorageManager.cs
-    |   |       StoreManager.cs
+    |   +---Discord | Theres a good chance some of these scripts arent used by the mod itself, and are rather just templates, the supposedly unused ones will have a * next to it
+    |   |       ActivityManager.cs | this is being used in the mod, but im not sure for what...
+    |   |       Constants.cs | stores the discord game sdk dll name
+    |   |       Core.cs | main discord invite controller
+    |   |       discord_game_sdk.dll | discord sdk dll
+    |   |       ImageManager.cs | gets the discord user's image
+    |   |       LobbyManager.cs | (guess) looks therough the connected members of a server and grabs their info
+    |   |       README.md | Readme info on everything in this folder
+    |   |       StorageManager.cs*
+    |   |       StoreManager.cs*
     |   |       
     |   +---Enums
     |   |       JoinError.cs

@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace Discord
+namespace Discord // main discord invite controller
 {
 	public enum Result
 	{
@@ -4196,4 +4196,4 @@ namespace Discord
 			}
 		}
 	}
-}
+} // nice vvv

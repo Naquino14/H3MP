@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Discord
 {
-	public partial class StorageManager
+	public partial class StorageManager // creates a list of file info and adds it to something, not too sure
 	{
 		public IEnumerable<FileStat> Files()
 		{

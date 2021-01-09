@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Discord
 {
-	public partial class LobbyManager
+	public partial class LobbyManager // (guess) looks therough the connected members of a server and grabs their info
 	{
 		public IEnumerable<User> GetMemberUsers(Int64 lobbyID)
 		{
